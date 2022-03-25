@@ -416,11 +416,11 @@ textarea {
 }
 
 a {
-  color: #e8dff5;
+  background-color: #e8dff5;
   text-decoration: none;
 }
 a:hover {
-  color: #e8dff5;
+  background-color: #ffa69e;
   text-decoration: underline;
 }
 
