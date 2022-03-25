@@ -405,7 +405,7 @@ body {
 }
 
 body {
-  background: #fff;
+  background: linear-gradient( 15deg, #e55d87, #f8cdda, #5fc3e4);
 }
 
 body,
