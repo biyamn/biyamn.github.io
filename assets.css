@@ -528,7 +528,7 @@ code {
 }
 
 #content article > a {
-  background: #333;
+  background: #e8dff5;
   border-radius: 2px;
   -moz-border-radius: 2px;
   -webkit-border-radius: 2px;
@@ -537,7 +537,7 @@ code {
   padding: 15px;
 }
 #content article > a:hover {
-  background: #222;
+  background: #e8dff5;
   text-decoration: none;
 }
 
