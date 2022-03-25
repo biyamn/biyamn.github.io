@@ -564,6 +564,9 @@ code {
   padding: 3px 6px;
 }
 
+h2 {
+  color: #191919
+}
 /* Default */
 #content article {
   border-color: #e2e7ea;
