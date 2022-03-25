@@ -535,12 +535,10 @@ code {
   cursor: pointer;
   display: block;
   padding: 15px;
-  color: #191919
 }
 #content article > a:hover {
   background: #ffa69e;
   text-decoration: none;
-  color: #191919
 }
 
 #content a h2 {
