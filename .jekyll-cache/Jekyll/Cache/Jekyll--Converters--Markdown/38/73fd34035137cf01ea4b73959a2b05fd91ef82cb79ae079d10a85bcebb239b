@@ -1,44 +1,4 @@
-<!DOCTYPE html>
-<head>
-  <title>Carte</title>
-  <meta charset='utf-8'/>
-  <meta name='description' content='Documentation website'/>
-  <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'/>
-  <link href='assets.css' rel='stylesheet' type='text/css'>
-</head>
-<body>  
-  <nav id='sidebar'>
-	<h1>Carte</h1>
-<ul id='links'>
-  
-    
-    <li><a href='#/%EB%A9%8B%EC%9F%81%EC%9D%B4-%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%EB%A9%8B%EC%82%AC-10%EA%B8%B0-%ED%95%A9%EA%B2%A9,-OT-%ED%9B%84%EA%B8%B0'>멋쟁이 사자처럼 멋사 10기 합격, OT 후기</a></li>
-    
-  
-  
-  <li><h2>멋쟁이사자처럼</h2>
-    <ul>
-    
-              
-        <li class=''><a href='#'></a></li>
-      
-    
-              
-        <li class='멋쟁이사자처럼'><a href='#/%EB%A9%8B%EC%9F%81%EC%9D%B4-%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%EB%A9%8B%EC%82%AC-10%EA%B8%B0-%ED%95%A9%EA%B2%A9,-OT-%ED%9B%84%EA%B8%B0'>멋쟁이 사자처럼 멋사 10기 합격, OT 후기</a></li>
-      
-    
-    </ul>
-  </li>
-
-</ul>
-</nav>
-
-<section id='content'>
-
-  <article class='멋쟁이사자처럼'>
-    <a name='/%EB%A9%8B%EC%9F%81%EC%9D%B4-%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%EB%A9%8B%EC%82%AC-10%EA%B8%B0-%ED%95%A9%EA%B2%A9,-OT-%ED%9B%84%EA%B8%B0' href='#/%EB%A9%8B%EC%9F%81%EC%9D%B4-%EC%82%AC%EC%9E%90%EC%B2%98%EB%9F%BC-%EB%A9%8B%EC%82%AC-10%EA%B8%B0-%ED%95%A9%EA%B2%A9,-OT-%ED%9B%84%EA%B8%B0'><h2><code><b>멋쟁이사자처럼</b> </code> 멋쟁이 사자처럼 멋사 10기 합격, OT 후기</h2></a>
-    <section class='body'>
-      <p>3주에 걸친 선발 과정 끝에, 최종 합격 공지를 받았다!!</p>
+I"�.<p>3주에 걸친 선발 과정 끝에, 최종 합격 공지를 받았다!!</p>
 
 <p>에타에 이런 글을 쓰며 기다린지도 엊그제같은데 정말 꿈만 같았다ㅎㅎ 
 <img src="https://user-images.githubusercontent.com/101965666/159864605-fb4bebe4-2758-484e-985c-06f5775d160b.jpg" alt="1" /></p>
@@ -261,15 +221,4 @@
 
 <p><img src="https://user-images.githubusercontent.com/101965666/159870340-97c4094f-8005-42a4-a4d6-6ccf4bb67cac.jpg" alt="KakaoTalk_20220324_170600405" width="500" height="500" /></p>
 
-
-    </section>
-  </article>
-
-</section>
-
-  
-  <!--[if lt IE 9]><script src='http://html5shim.googlecode.com/svn/trunk/html5.js'></script><![endif]-->
-  <script src='assets.js' type='text/javascript'></script>
-  <script>require('boot');</script>
-</body>
-</html>
+:ET
