@@ -642,3 +642,11 @@ code {
   padding: 15px;
   white-space: pre;
 }
+
+.fonts_url {
+ color: black;
+}
+
+.git_url {
+ color: black;  
+}
