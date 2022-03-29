@@ -641,3 +641,7 @@ code {
   padding: 15px;
   white-space: pre;
 }
+
+.title_post {
+  text-decoration: none;
+}
