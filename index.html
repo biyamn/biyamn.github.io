@@ -1,18 +1,39 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>포트폴리오</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+  <div class="home_container">
 
-<nav id='sidebar'>
-	{% include nav.html %}
-</nav>
-
-<section id='content'>
-{% for post in site.posts %}
-  <article class='{{ post.type }}'>
-    <a name='{{ post.url }}' href='#{{ post.url }}'><h2>{% if post.type %}<code><b>{{ post.type }}</b> {{ post.url_path }}</code> {% endif %}{{ post.title }}</h2></a>
-    <section class='body'>
-      {{ post.content }}
+  <main>
+    <section class="image">
+      <img src="images\ham.png" width="350">
     </section>
-  </article>
-{% endfor %}
-</section>
+  </main>
+
+    <section class="home">
+      <div class="name">
+      <h1 class="leename"><a href="index.html" class="LEEname">biyam</a></h1>
+      </div>
+        <ul class="list">
+          <li><a href="about.html" class="about"><b>About</b></a></li>
+          <li><a href="activities.html"  class="activities"><b>Activities</b></a></li>
+          <li ><a href="project.html" class="project"><b>Project</b></a></li>
+          <li><a href="education.html"  class="education"><b>Education</b></a></li>
+        </ul>
+    </section>
+  
+  <aside class="url">
+    <ul>
+      <li class="url1"><a href="https://github.com/biyamn"><img src="images\github.png" width="30" class="github"></a></li>
+      <li class="url2"><a href="https://velog.io/@hamham"><img src="images\velog.png" width="30" class="velog"></a></li>
+    </ul>
+  </aside>
+
+  </div>
+
+</body>
+</html>

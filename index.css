@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@700&family=Martel:wght@300&family=Nanum+Myeongjo:wght@700&family=Nanum+Pen+Script&family=Open+Sans&display=swap');
+* {
+  font-family: 'Gowun Batang', serif;
+}
+
+.home_container {
+
+  background: url("images\\sky.jpg");
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+  align-items: center;
+
+  width:1200px;
+  height: 600px;
+  margin: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 15px solid white;
+  padding: 30px;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+
+.small_container_about {
+
+  background: url("images\\sky.jpg");
+
+  width:1200px;
+  height: 600px;
+  margin: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 15px solid white;
+  padding: 30px;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+
+.small_container {
+
+  background: url("images\\sky.jpg");
+
+  width:1200px;
+  height: 600px;
+  margin: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 15px solid white;
+  padding: 30px;
+  box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.3);
+  border-radius: 50px;
+}
+
+
+body {
+  background: #ee9ca7;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #fff9f9, #f4c0c7);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #fff9f9, #f4c0c7); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background-size: cover;
+  height: 100vh;
+}
+
+.home {
+  display: flex;
+  flex-flow: column wrap;
+  
+}
+
+.url ul {
+  list-style:none;
+  padding: 70px;
+}
+
+
+
+.github {
+  margin-bottom: 5px;
+  
+}
+
+.name {
+  font-size: 50px;
+  
+}
+
+.list {
+  list-style:none;
+  font-size: 30px;
+  text-align: left;
+  padding: 0;
+  color: inherit;
+}
+
+li {
+  line-height: 60px;
+}
+
+.leename {
+  margin: 0px;
+  text-decoration-line: none;
+}
+
+.leename > a {
+  color: white;
+  text-decoration : none;
+}
+
+.about {
+  color: white;
+  text-decoration : none;
+}
+
+.activities {
+  color: white;
+  text-decoration : none;
+}
+
+.project {
+  color: white;
+  text-decoration : none;
+}
+
+.education {
+  color: white;
+  text-decoration : none;
+}
+
+.LEEname:hover{
+  color: rgb(254, 216, 216);
+}
+
+.about:hover {
+  color: rgb(254, 216, 216);
+  
+}
+
+.activities:hover {
+  color: rgb(254, 216, 216);
+}
+
+.project:hover {
+  color: rgb(254, 216, 216);
+}
+
+.education:hover {
+  color: rgb(254, 216, 216);
+}
+
+.small_container h2:hover {
+  color: rgb(254, 216, 216);
+}
+
+.small_container h2 {
+  text-decoration-line: none;
+}
+.small_container_about p {
+  color: #ffffff;
+}
+
+.float-wrap {
+  overflow: hidden;
+  width: 600px;
+}
+
+.title-text {
+  font-size: 20px;
+  font-weight: bold;
+  float: left;
+}
+
+.year-text {
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+}
+
+.activity_container {
+  padding-left: 150px;
+}
+
+.activity_container h2 {
+  font-size: 50px;
+  padding-bottom: 40px;
+  color: white;
+}
+
+.title-text {
+color: white;
+}
+
+.year-text {
+color: white;
+}
+
+.small_container h2 {
+  font-size: 40px;
+  color: white;
+}
+
+.small_container_about h2 {
+  font-size: 40px;
+  color: white;
+}
+
+.about_container {
+  display: flex;
+  direction-flow: row wrap;
+
+}
+
+.about_container p{
+  float: top;
+  font-size: 20px;
+}
+
+.container1 {
+  width:350px;
+  height: 350px;
+  margin: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid white;
+  padding: 30px;
+  border-radius: 50px;
+  margin-top: 0;
+}
+
+
+.container2{
+  width:350px;
+  height: 350px;
+  margin: 90px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 10px solid white;
+  padding: 30px;
+  border-radius: 50px;
+  gap: 0 0 ;
+  margin-top: 0;
+}
+
+.noline {
+  text-decoration-line: none;
+}
+
+.small_container_about h3{
+  font-size: 30px;
+  color: white;
+  margin: 0;
+}
+
+hr {
+  background-color: white;
+  height: 1.5px;
+  color: white;
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+  .about_container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .container1 {
+    margin-bottom: 20px;
+    margin-top: 0;
+  }
+
+  .container2 {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+
+  .small_container {
+    width:450px;
+    height: 600px;
+  }
+
+  .small_container_about {
+    width:450px;
+    height: 1000px;
+  }
+
+  .about_container {
+    place-items: center;
+  }
+
+  .title-text {
+    float:none;
+    margin: 0;
+    margin-bottom: 5px;
+  }
+
+  .year-text {
+    float:none;
+    margin-top:0;
+    margin-bottom:30px;
+  }
+
+  .home_container {
+
+    width:450px;
+    height: 600px;
+  }
+
+  .image {
+    display: none;
+  }
+
+  body {
+    background: #ee9ca7;
+    background: linear-gradient(to top, #fff9f9, #f4c0c7);
+    background-size: cover;
+    height: 100vh;
+  }
+
+}
